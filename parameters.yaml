@@ -1,0 +1,4 @@
+couchbase:
+  cb_user:
+  cb_pass:
+  cb_bucket: 
